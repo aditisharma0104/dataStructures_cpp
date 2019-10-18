@@ -1,3 +1,4 @@
+// Linear Search Program 
 
 #include<iostream>
 using namespace std;
@@ -5,7 +6,7 @@ using namespace std;
 class lsearch
 {
     public:
-    int arr[20],a_size,s_element,i;
+    int arr[100],a_size,s_element,i;
     void getdata();
     void display();
 
